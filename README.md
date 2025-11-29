@@ -1,14 +1,16 @@
 # 📘 Course Resource Hub  
-### Time Series & Forecasting – Course Materials
+### Financial Time Series – Course Materials
 
 Welcome!  
 This repository organizes all course content **chapter by chapter**, with direct links to lecture notes, homework, datasets, and projects.
 
-Replace each **link placeholder** (`#`) with the actual file link once uploaded.
+📌 **Note:**  
+All **official assignment submissions and grades** will be posted on the **Canvas page** of the course.  
+This GitHub repository provides **learning materials only**.
 
 ---
 
-## 📑 Chapter 1: Introduction to Time Series
+## 📑 Chapter 1: Financial Time Series and Their Characteristics
 - 📘 **[Lecture Notes](#)**  
 - 📝 **[Homework 1](#)**  
 - 📂 **[Datasets](#)**  
@@ -16,7 +18,7 @@ Replace each **link placeholder** (`#`) with the actual file link once uploaded.
 
 ---
 
-## 📑 Chapter 2: Time Series Components  
+## 📑 Chapter 2: Linear Time Series Analysis and Its Applications
 - 📘 **[Lecture Notes](#)**  
 - 📝 **[Homework 2](#)**  
 - 📂 **[Datasets](#)**  
@@ -24,7 +26,7 @@ Replace each **link placeholder** (`#`) with the actual file link once uploaded.
 
 ---
 
-## 📑 Chapter 3: Smoothing Methods (MA, ES)  
+## 📑 Chapter 3: Conditional Heteroscedastic Models
 - 📘 **[Lecture Notes](#)**  
 - 📝 **[Homework 3](#)**  
 - 📂 **[Datasets](#)**  
@@ -32,51 +34,11 @@ Replace each **link placeholder** (`#`) with the actual file link once uploaded.
 
 ---
 
-## 📑 Chapter 4: AR, MA, and ARMA Models  
+## 📑 Chapter 4: Multivariate Time Series Analysis and Its Applications
 - 📘 **[Lecture Notes](#)**  
 - 📝 **[Homework 4](#)**  
 - 📂 **[Datasets](#)**  
 - 📊 **[Project 4](#)**  
-
----
-
-## 📑 Chapter 5: Forecasting with ARIMA  
-- 📘 **[Lecture Notes](#)**  
-- 📝 **[Homework 5](#)**  
-- 📂 **[Datasets](#)**  
-- 📊 **[Project 5](#)**  
-
----
-
-## 📑 Chapter 6: Model Diagnostics & Residual Analysis  
-- 📘 **[Lecture Notes](#)**  
-- 📝 **[Homework 6](#)**  
-- 📂 **[Datasets](#)**  
-- 📊 **[Project 6](#)**  
-
----
-
-## 📑 Chapter 7: Seasonal Models (SARIMA, Holt-Winters)  
-- 📘 **[Lecture Notes](#)**  
-- 📝 **[Homework 7](#)**  
-- 📂 **[Datasets](#)**  
-- 📊 **[Project 7](#)**  
-
----
-
-## 📑 Chapter 8: Multivariate Time Series (VAR, VECM)  
-- 📘 **[Lecture Notes](#)**  
-- 📝 **[Homework 8](#)**  
-- 📂 **[Datasets](#)**  
-- 📊 **[Project 8](#)**  
-
----
-
-## 📑 Chapter 9: Advanced Topics (GARCH, State Space Models)  
-- 📘 **[Lecture Notes](#)**  
-- 📝 **[Homework 9](#)**  
-- 📂 **[Datasets](#)**  
-- 📊 **[Project 9](#)**  
 
 ---
 
@@ -88,13 +50,12 @@ Email: your-email@semo.edu
 ---
 
 ## 🔧 How to Use This Repository  
-- Click the links under each chapter to access materials  
-- Work through the lecture notes, examples, and R code  
-- Use the datasets provided for homework and projects  
-- Check back regularly for updates  
+- Use chapter links to access lecture materials, datasets, and examples  
+- Homework and project files may appear here, but **all submissions and grades will be completed through Canvas**  
+- Check for updates as materials will be added throughout the semester  
 
 ---
 
 ## 📌 License  
-Educational use only. Cite appropriately.
+Educational use only. Please cite appropriately.
 
