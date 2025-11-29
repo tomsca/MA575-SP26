@@ -43,8 +43,7 @@ This GitHub repository provides **learning materials only**.
 ---
 
 ## 🎓 Instructor  
-**Emmanuel Thompson, Ph.D.**  
-Actuarial Science & Statistics Program  
+**Emmanuel Thompson, Ph.D., AASG**   
 Email: your-email@semo.edu  
 
 ---
