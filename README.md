@@ -1,5 +1,5 @@
 # 📘 Course Resource Hub  
-### Financial Time Series – Course Materials
+###  MA575: Time Series & Forecasting (Spring 2026) – Course Materials
 
 Welcome!  
 This repository organizes all course content **chapter by chapter**, with direct links to lecture notes, homework, datasets, and projects.
