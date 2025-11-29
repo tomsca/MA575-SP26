@@ -34,7 +34,7 @@ This GitHub repository provides **learning materials only**.
 
 ---
 
-## 📑 Chapter 4: Multivariate Time Series Analysis and Its Applications
+## 📑 Chapter 8: Multivariate Time Series Analysis and Its Applications
 - 📘 **[Lecture Notes](#)**  
 - 📝 **[Homework 4](#)**  
 - 📂 **[Datasets](#)**  
